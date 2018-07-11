@@ -1,14 +1,12 @@
 class: center, middle
 
-# Title
+# Men Wrote Things To Me
 
+The name of this slide is {{ Men Wrote Things To Me }}
 ---
+class: center, middle
 
-# Agenda
-
-1. Introduction
-2. Deep-dive
-3. ...
+# slide 2
 
 ---
 
