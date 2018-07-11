@@ -1,27 +1,15 @@
 class: center, middle
 
-
-# Men Said Things To Me
-
----
-
-# I met you in my dreams
+# Title
 
 ---
 
-# you're a massive turn on
+# Agenda
+
+1. Introduction
+2. Deep-dive
+3. ...
 
 ---
 
-# you're my idea of a perfect woman
-
----
-
-# I'm really in the mood to fuck you
-
----
-
-# your nipples are to have an affair with
-
----
-
+# Introduction
